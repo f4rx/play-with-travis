@@ -2,4 +2,4 @@
 
 ### Play with Travis CI
 
-Author Aleksey Stepanenko
+Student Aleksey Stepanenko
